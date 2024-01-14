@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth;
+}
+
+.text-shadow-white {
+    text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.2); /* Ubah nilai offset, blur, dan warna sesuai kebutuhan */
+}
+  
